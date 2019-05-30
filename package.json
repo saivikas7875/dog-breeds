@@ -1,5 +1,6 @@
 {
-  "name": "ts-app",
+  "name": "dog-breeds",
+  "description": "Search for images of dogs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
