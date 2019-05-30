@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Car Information",
+  "name": "Car Model Information",
   "icons": [
     {
       "src": "favicon.ico",
