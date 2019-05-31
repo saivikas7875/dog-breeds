@@ -1,0 +1,28 @@
+.appHeader {
+    background-color: #376a8c;
+    color: white;
+    font-size: calc(10px + 2vmin);
+    padding: 10px 0;
+
+    .headerContainer {
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.appBody {
+    margin-top: 20px;
+}
+
+.appLink {
+    color: #61dafb;
+}
+
+.dogLogo {
+    height: 40px;
+}
+
+.appTitle {
+    margin-bottom: 0 !important;
+}

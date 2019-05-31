@@ -1,0 +1,25 @@
+.container {
+    padding: 5px;
+}
+
+.breedSelectors {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    label {
+        font-weight: bold;
+    }
+}
+
+.dogImageContainer {
+    margin-top: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.dropDown {
+    margin-bottom: 10px;
+}
